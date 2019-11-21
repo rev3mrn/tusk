@@ -1,3 +1,7 @@
 welcome !
 added
-new branch
+new bran
+conflicts in branch
+
+
+new in branch
